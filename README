@@ -1,0 +1,23 @@
+# Lynx Forge
+
+Lynx Forge is a Java Swing based compiler and development environment project.
+
+## Features
+
+- Custom menu system
+- Desktop GUI
+- Project management (planned)
+- Compiler system (in development)
+
+## Technologies
+
+- Java
+- Swing
+- IntelliJ IDEA
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/username/LynxForge.git
